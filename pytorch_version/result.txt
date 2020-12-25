@@ -1,0 +1,23 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "prepocess_batch.py", line 2, in <module>
+    import tools
+  File "/export/longfuhui/fpz/Voiceprint_recognition_rewrite-master/pytorch_version/tools.py", line 1, in <module>
+    import mfcc_reader
+  File "/export/longfuhui/fpz/Voiceprint_recognition_rewrite-master/pytorch_version/mfcc_reader.py", line 1, in <module>
+    from python_speech_features import mfcc
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/python_speech_features/__init__.py", line 1, in <module>
+    from .base import *
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/python_speech_features/base.py", line 6, in <module>
+    from scipy.fftpack import dct
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/scipy/__init__.py", line 156, in <module>
+    from . import fft
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/scipy/fft/__init__.py", line 81, in <module>
+    from ._helper import next_fast_len
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/scipy/fft/_helper.py", line 4, in <module>
+    from . import _pocketfft
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/scipy/fft/_pocketfft/__init__.py", line 3, in <module>
+    from .basic import *
+  File "/export/longfuhui/anaconda3/lib/python3.7/site-packages/scipy/fft/_pocketfft/basic.py", line 8, in <module>
+    from . import pypocketfft as pfft
+ImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /export/longfuhui/anaconda3/lib/python3.7/site-packages/scipy/fft/_pocketfft/pypocketfft.cpython-37m-x86_64-linux-gnu.so)

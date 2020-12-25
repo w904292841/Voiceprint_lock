@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="088888c5-b223-4951-aeb6-646963aed779" name="研究院服务器（暂用）">
+        <fileTransfer rootFolder="/export/longfuhui" accessType="SFTP" host="192.168.3.103" port="22" sshConfigId="6874d6bb-7f2d-4f86-bb5f-89e8ab1cea8f" sshConfig="inspur@192.168.3.103:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

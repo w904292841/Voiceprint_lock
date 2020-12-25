@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfd8e5e9-993c-4896-8565-58e33ccd3584" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TRAIN_LIST_FILE</find>
+      <find>CONTINUE</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="qiaoxiaobin2018 &lt;qxb1461628082@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ad0c8577-5e63-43bd-89bc-926cfb32adb8" />
+  <component name="ProjectId" id="1UnFMa2W781O22Ifk7wC5TK8XCU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="F:/Users/hasee/PycharmProjects/host" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Voiceprint_recognition_rewrite-master\pytorch_version" />
+      <recent name="D:\Python_projects\vggvox_rewrite\a_iden" />
+      <recent name="D:\Python_projects\vggvox_rewrite\utils" />
+      <recent name="D:\Python_projects\vggvox_rewrite\cfg" />
+      <recent name="D:\Python_projects\vggvox_rewrite\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.veri">
+    <configuration name="am_softmax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vggvox_rewrite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch_version" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_version/am_softmax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_veri_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vggvox_rewrite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch_version" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_version/get_veri_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mfcc_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vggvox_rewrite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch_version" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_version/mfcc_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepocess_batch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vggvox_rewrite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch_version" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_version/prepocess_batch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="veri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vggvox_rewrite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch_version" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_version/veri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.veri" />
+      <item itemvalue="Python.get_veri_model" />
+      <item itemvalue="Python.mfcc_reader" />
+      <item itemvalue="Python.am_softmax" />
+      <item itemvalue="Python.prepocess_batch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.veri" />
+        <item itemvalue="Python.get_veri_model" />
+        <item itemvalue="Python.prepocess_batch" />
+        <item itemvalue="Python.am_softmax" />
+        <item itemvalue="Python.mfcc_reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfd8e5e9-993c-4896-8565-58e33ccd3584" name="Default Changelist" comment="" />
+      <created>1575984404869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575984404869</updated>
+      <workItem from="1575984449257" duration="5990000" />
+      <workItem from="1576028874079" duration="24480000" />
+      <workItem from="1576138491421" duration="2729000" />
+      <workItem from="1576229199001" duration="3243000" />
+      <workItem from="1576237831586" duration="6982000" />
+      <workItem from="1576313967909" duration="4153000" />
+      <workItem from="1576374618856" duration="27373000" />
+      <workItem from="1576475053444" duration="13941000" />
+      <workItem from="1576492607171" duration="11849000" />
+      <workItem from="1576506166439" duration="370000" />
+      <workItem from="1576587636047" duration="3857000" />
+      <workItem from="1576592464000" duration="7000" />
+      <workItem from="1576639448291" duration="5760000" />
+      <workItem from="1576741230536" duration="10024000" />
+      <workItem from="1576808876444" duration="564000" />
+      <workItem from="1576915060630" duration="3654000" />
+      <workItem from="1576921036703" duration="1855000" />
+      <workItem from="1577004003989" duration="4810000" />
+      <workItem from="1577109524280" duration="853000" />
+      <workItem from="1577360275744" duration="8567000" />
+      <workItem from="1577434375930" duration="21654000" />
+      <workItem from="1577514423892" duration="15351000" />
+      <workItem from="1577601628237" duration="11624000" />
+      <workItem from="1577692243364" duration="13235000" />
+      <workItem from="1577781749658" duration="413000" />
+      <workItem from="1577951636414" duration="581000" />
+      <workItem from="1578045920541" duration="366000" />
+      <workItem from="1579230108438" duration="706000" />
+      <workItem from="1579310621232" duration="66000" />
+      <workItem from="1579341342504" duration="2225000" />
+      <workItem from="1579399887231" duration="2955000" />
+      <workItem from="1579483603745" duration="2239000" />
+      <workItem from="1581389575371" duration="1779000" />
+      <workItem from="1581475948576" duration="11169000" />
+      <workItem from="1581511741337" duration="661000" />
+      <workItem from="1581562132224" duration="22140000" />
+      <workItem from="1581651964941" duration="13072000" />
+      <workItem from="1581910518788" duration="3250000" />
+      <workItem from="1581936078281" duration="2464000" />
+      <workItem from="1606486967699" duration="255000" />
+      <workItem from="1606560817528" duration="643000" />
+      <workItem from="1606579440980" duration="3209000" />
+      <workItem from="1606652993820" duration="1182000" />
+      <workItem from="1606671335130" duration="4761000" />
+      <workItem from="1606703115365" duration="1790000" />
+      <workItem from="1606705231511" duration="803000" />
+      <workItem from="1606726951932" duration="1219000" />
+      <workItem from="1606983806456" duration="5302000" />
+      <workItem from="1607085312749" duration="599000" />
+      <workItem from="1607169572840" duration="92000" />
+      <workItem from="1607309550745" duration="1649000" />
+      <workItem from="1607311480690" duration="2016000" />
+      <workItem from="1607331598667" duration="4104000" />
+      <workItem from="1607354305875" duration="3212000" />
+      <workItem from="1607423031041" duration="10968000" />
+      <workItem from="1607442229204" duration="12477000" />
+      <workItem from="1607528783702" duration="10749000" />
+      <workItem from="1607653064534" duration="2008000" />
+      <workItem from="1607973016665" duration="1151000" />
+    </task>
+    <task id="LOCAL-00001" summary="2019/12/16">
+      <created>1576487072117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576487072117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019/12/21">
+      <created>1576921091483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576921091483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019/12/27">
+      <created>1577459834717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577459834717</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019/12/16" />
+    <MESSAGE value="2019/12/21" />
+    <MESSAGE value="2019/12/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/12/27" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="57" key="#SSH_配置" timestamp="1607334862808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="57" key="#SSH_配置/0.0.1536.824@0.0.1536.824" timestamp="1607334862808" />
+    <state x="361" y="70" key="#部署" timestamp="1607334891291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#部署/0.0.1536.824@0.0.1536.824" timestamp="1607334891291" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607653683178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607653683178" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1607974167576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607974167576" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1607974167575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607974167575" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1607974167575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607974167575" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1607974167575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607974167575" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$prepocess_batch.coverage" NAME="prepocess_batch Coverage Results" MODIFIED="1607679534748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$iden_train.coverage" NAME="iden_train Coverage Results" MODIFIED="1581598643221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$iden_train.coverage" NAME="iden_train Coverage Results" MODIFIED="1578046105365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$veri_model_mfcc.coverage" NAME="veri_model_mfcc Coverage Results" MODIFIED="1607452178059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$get_veri_model.coverage" NAME="get_veri_model Coverage Results" MODIFIED="1607973256553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$model.coverage" NAME="model Coverage Results" MODIFIED="1581486520691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$verication.coverage" NAME="veriﬁcation Coverage Results" MODIFIED="1577539426223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$tools__1_.coverage" NAME="tools (1) Coverage Results" MODIFIED="1581655736405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$score.coverage" NAME="score Coverage Results" MODIFIED="1577021855243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$preprocess_veri.coverage" NAME="preprocess_veri Coverage Results" MODIFIED="1607431141753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src_new" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$mfcc_reader.coverage" NAME="mfcc_reader Coverage Results" MODIFIED="1607529209965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$resNet.coverage" NAME="resNet Coverage Results" MODIFIED="1577713103456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$pre_shell.coverage" NAME="pre_shell Coverage Results" MODIFIED="1576238414265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$get_pt_train_list.coverage" NAME="get_pt_train_list Coverage Results" MODIFIED="1606694281283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src_new" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$main_mfcc.coverage" NAME="main_mfcc Coverage Results" MODIFIED="1607485449496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$mfcc_model.coverage" NAME="mfcc_model Coverage Results" MODIFIED="1607423258062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$delete.coverage" NAME="delete Coverage Results" MODIFIED="1577455496393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$new_score.coverage" NAME="new_score Coverage Results" MODIFIED="1577439122404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$gettriplettuple.coverage" NAME="gettriplettuple Coverage Results" MODIFIED="1607444277095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src_new" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$model__1_.coverage" NAME="model (1) Coverage Results" MODIFIED="1576052731751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$train.coverage" NAME="train Coverage Results" MODIFIED="1581486559361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$identication.coverage" NAME="identiﬁcation Coverage Results" MODIFIED="1581488659993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1606677189766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src_new" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$am_softmax.coverage" NAME="am_softmax Coverage Results" MODIFIED="1607544751214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$test.coverage" NAME="test Coverage Results" MODIFIED="1581659168618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$veri_train.coverage" NAME="veri_train Coverage Results" MODIFIED="1577520401397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$identication.coverage" NAME="identiﬁcation Coverage Results" MODIFIED="1577518005320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$new_train.coverage" NAME="new_train Coverage Results" MODIFIED="1577434649537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$model.coverage" NAME="model Coverage Results" MODIFIED="1579400091429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$get_veri_test_tuple.coverage" NAME="get_veri_test_tuple Coverage Results" MODIFIED="1607453273324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$get_all_list.coverage" NAME="get_all_list Coverage Results" MODIFIED="1577455008799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$veri.coverage" NAME="veri Coverage Results" MODIFIED="1607974122786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$get_biggest_file.coverage" NAME="get_biggest_file Coverage Results" MODIFIED="1577444573763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$tools.coverage" NAME="tools Coverage Results" MODIFIED="1581657858411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$gene_enroll_and_test_csv.coverage" NAME="gene_enroll_and_test_csv Coverage Results" MODIFIED="1577456474988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$learn_np.coverage" NAME="learn_np Coverage Results" MODIFIED="1577004515304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/vggvox_rewrite$train.coverage" NAME="train Coverage Results" MODIFIED="1575987021277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Voiceprint_lock_v_10$get_pt_test_list.coverage" NAME="get_pt_test_list Coverage Results" MODIFIED="1606694335269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src_new" />
+    <SUITE FILE_PATH="coverage/Voiceprint_recognition_rewrite_master$iden_train__1_.coverage" NAME="iden_train (1) Coverage Results" MODIFIED="1581668380002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_version" />
+  </component>
+</project>
